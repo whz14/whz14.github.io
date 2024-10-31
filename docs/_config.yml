@@ -27,9 +27,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  whz14
 
 # Build settings
-theme: minima
+# theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
+include: ['_pages', '_pages/running', 'docs/_pages']
 
 # Exclude from processing.
 # The following items will not be processed, by default.

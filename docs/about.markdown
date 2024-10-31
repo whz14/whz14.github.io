@@ -2,9 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+navi_order: 10
 ---
 
 反正就先写着玩吧，随缘更新
+
+
+{% include /response.md %}
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
