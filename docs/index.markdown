@@ -12,7 +12,7 @@ layout: home
 
 1. 本页
 1. 跑步的学习笔记 [开跑](/running/)
-1. 跑步日记 _TBD_
+1. 跑步日记 [看流水账](/running_logs/)
 1. 其他笔记 _TBD_
 
 # 约定用语
